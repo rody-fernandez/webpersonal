@@ -5,7 +5,7 @@ Para poder agregar mas proyectos en tu portafolio debes ingresar a la direccion 
 
 * Primeramente necesitaras crear para tu login como supor usuario, con el comando python manage.py creatersuperuser. Despues te pedira unos datos como usuario, contraseña, correo.
 
-*Ingresar con tu nuevo login y despues en poryectos, dar click a boton de Añadir Proyecto colocando los datos necesarios.
+* Ingresar con tu nuevo login y despues en poryectos, dar click a boton de Añadir Proyecto colocando los datos necesarios.
 
-*Al terminar de guardar puedes verificar tu proyecto en portafolio en http://127.0.0.1:8000/portfolio/
+* Al terminar de guardar puedes verificar tu proyecto en portafolio en http://127.0.0.1:8000/portfolio/
 
